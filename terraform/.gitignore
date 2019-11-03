@@ -1,0 +1,9 @@
+# Terraform init files
+.terraform
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Private SSH keys
+id_rsa*
